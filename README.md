@@ -14,7 +14,7 @@ Close the terminal and reopen it
 conda init --all
 ```
 
-Install condatoolkit:
+Install cudatoolkit:
 
 ```
 conda install cudatoolkit
