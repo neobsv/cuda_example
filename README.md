@@ -23,5 +23,9 @@ conda update numba
 conda install -c conda-forge cuda-nvcc cuda-nvrtc "cuda-version>=12.0"
 ```
 
+Run:
 
+```
+python3 first.py
+```
 
